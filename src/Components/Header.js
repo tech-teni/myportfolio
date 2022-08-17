@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { FaLessThan, FaGreaterThan } from "react-icons/fa";
 // import { BsSlashLg } from "react-icons/bs";
 
-import { AiOutlineMenu, AiFillContacts } from "react-icons/ai";
+import { AiOutlineMenu } from "react-icons/ai";
 import {
   MdWork,
   MdMore,
